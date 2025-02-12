@@ -16,6 +16,7 @@ At **AltSchool Africa**, I have refined my skills in areas like **AWS**, **Azure
 
 ## 🎓 Education & Certifications
 
+- **AWS Certfied Cloud Practitioner** - AWS
 - **Cloud Engineering Program** - AltSchool Africa
 - **Microbiology** - [University Of Nigeria Nsukka]
 - **Human Resource Management** - [The Chartered Institute of Personnel Management of Nigeria (CIPM)]
