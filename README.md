@@ -31,6 +31,9 @@ At **AltSchool Africa**, I have refined my skills in areas like **AWS**, **Azure
 - **Automation**: Ansible, Bash
 
 ## 🔨 Projects
+### [Docker-practice-project] (https://github.com/Clairebasil/Docker-practice-project)
+A project from my final semester focusing on docker, containers and AWS ECR
+
 
 ### [First-semester-workload](https://github.com/Clairebasil/First-semester-workload)
 An HTML-based project showcasing my initial learnings in Cloud Engineering.
