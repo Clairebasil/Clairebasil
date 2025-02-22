@@ -31,7 +31,7 @@ At **AltSchool Africa**, I have refined my skills in areas like **AWS**, **Azure
 - **Automation**: Ansible, Bash
 
 ## 🔨 Projects
-### [Docker-practice-project] (https://github.com/Clairebasil/Docker-practice-project)
+### [Docker-practice-project](https://github.com/Clairebasil/Docker-practice-project)
 A project from my final semester focusing on docker, containers and AWS ECR
 
 
