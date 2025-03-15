@@ -31,6 +31,9 @@ At **AltSchool Africa**, I have refined my skills in areas like **AWS**, **Azure
 - **Automation**: Ansible, Bash
 
 ## 🔨 Projects
+### [CI/CD-practice-project](https://github.com/Clairebasil/CI-CD-Github-actions)
+A project where i developed and implemented a robust CI/CD pipeline using GitHub Actions, automating the build, test, and deployment process. This project demonstrates my expertise in Docker, AWS ECR, AWS EC2, Github actions. Achieved 50% reduction in deployment time, increased deployment frequency.
+
 ### [Docker-practice-project](https://github.com/Clairebasil/Docker-practice-project)
 A project from my final semester focusing on docker, containers and AWS ECR
 
